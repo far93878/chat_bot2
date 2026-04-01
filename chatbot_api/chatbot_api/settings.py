@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    ''chatbot_api.chatbot'',
+    'chatbot_api.chatbot',
     'rest_framework',
     'corsheaders',
     
